@@ -1,1 +1,2 @@
-https://my.boisestate.edu/#/student/academics
+
+[text](https://my.boisestate.edu/#/student/academics)
